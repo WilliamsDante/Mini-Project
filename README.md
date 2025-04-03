@@ -53,6 +53,8 @@ Mac installation is slightly different, it requires the use of the Terminal in M
 
 Choose the one that best suits you and run the command in the Terminal app on your Mac.
 
+After installation run the code `git --version` to confirm instalation
+
 ![GitIstallation](./img/11.%20git%20installation.png)
 
 ## VirtualBox
@@ -74,6 +76,7 @@ Virtual box is a virtual machine that allows you to install a virtual copy of an
 - You will be promted to configure your interface
 - complete your installation and Ubuntu will be up and running
 
+Ubuntu running in Virtual Box
 ![Ubuntu Login](./img/12.%20Ubuntu%20Login.png)
 
 ## Creating Github and AWS accounts
@@ -112,4 +115,5 @@ Virtual box is a virtual machine that allows you to install a virtual copy of an
 - **Access the AWS management console**
 - **Explore the AWS free Tier Services**
 
+AWS account Successfully created
 ![AWS Home](./img/13.%20AWS%20Home.png)

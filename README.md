@@ -30,7 +30,7 @@ Download VScode from official website at [Visual Studio Code](https://code.visua
 
 #### 2.
 
-![VScode](./img/10.%20VScode%202.png)
+![VScode Installed](./img/10.%20VScode%20installed.png)
 
 ## Git
 Git is a distributed version control system that tracks versions of files. It is often used to control source code by programmers who are developing software collaboratively.
@@ -53,6 +53,8 @@ Mac installation is slightly different, it requires the use of the Terminal in M
 
 Choose the one that best suits you and run the command in the Terminal app on your Mac.
 
+![GitIstallation](./img/11.%20git%20installation.png)
+
 ## VirtualBox
 Virtual box is a virtual machine that allows you to install a virtual copy of any operating system on an already existing operating system.
 
@@ -60,21 +62,26 @@ Virtual box is a virtual machine that allows you to install a virtual copy of an
 
 ![VirtualBox](./img/04.%20VirtualBox%201.png)
 
-### 2.
-![VirtualBox](./img/05.%20VirtualBox%202.png)
+
+![VirtualBox Installed](./img/05.%20VirtualBox%20installed.png)
 
 #### Ubuntu Installation (Virtual Box)
 - Download Ubuntu ISO file at the ubuntu official website [Ubuntu Website](https://ubuntu.com/download)
+
+![Ubuntu download](./img/06.%20ubuntu%20Download.png)
+
 - Intstall the ubuntu iso through virtual box by clicking `ADD` on the virtual box interface
 - You will be promted to configure your interface
 - complete your installation and Ubuntu will be up and running
+
+![Ubuntu Login](./img/12.%20Ubuntu%20Login.png)
 
 ## Creating Github and AWS accounts
 
 #### Github 
 **Visit the github official website:** [GitHub](https://github.com/)
 
-![GitHub](./img/09.%20Git%202.png)
+![GitHub](./img/09.%20GitHub%20Signup.png)
 
 - **Sign Up**
 - **Enter your information**
@@ -84,7 +91,7 @@ Virtual box is a virtual machine that allows you to install a virtual copy of an
 - **Tailor your experience (Optional)**
 - **Welcome to GitHub**
 
-![GitHub](./img/08.%20Git%201.png)
+![GitHub Account](./img/08.%20GitHub%20Account.png)
 
 #### Amazon Web Service (AWS) Account
 
@@ -104,3 +111,5 @@ Virtual box is a virtual machine that allows you to install a virtual copy of an
 - **Wait for approval:** it might take a short while for your account to be approved, once approved signin with the credentials you provided during the signup process.
 - **Access the AWS management console**
 - **Explore the AWS free Tier Services**
+
+![AWS Home](./img/13.%20AWS%20Home.png)
